@@ -1,6 +1,6 @@
 public class AccountPlanner {
 
-    public static void plan(){
+    public static void plan(){{
     
 	
         system.debug('planning now...11124234234');
